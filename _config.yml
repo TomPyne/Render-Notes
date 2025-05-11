@@ -1,4 +1,6 @@
 title: Render-Notes
 author: Tom Pyne
 description: Yammerings and sometimes development updates for the render library
-theme: tactile
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme
